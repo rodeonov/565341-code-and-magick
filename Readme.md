@@ -22,9 +22,6 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275195-078bb816-0050-11e8-8708-89266d2fae5d.png">
 
-Получится вот так:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275196-07baf78e-0050-11e8-9275-404a4b63efb1.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
